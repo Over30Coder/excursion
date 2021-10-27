@@ -19,3 +19,58 @@ body {
     font-size: 16px;
     font-family: Verdana;
 }
+
+.video {
+    text-align:center
+}
+
+.travel-guide p {
+    font-family: Verdana;
+    font-weight: 300;
+    color: white;
+    font-size: 42px;
+    text-align: center;
+}
+
+.travel-guide h4 {
+    font-family: Verdana;
+    color:gray;
+    font-size: 21px;
+    text-align: center;
+}
+
+.travel-guide img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.coming-soon img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.coming-soon p {
+    font-family: Verdana;
+    color: white;
+    font-size: 42px;
+    text-align: center;
+}
+
+.coming-soon a {
+    color: aquamarine;
+    font-size: 16px;
+    font-family: Verdana;
+    text-align: center;
+}
+
+.footer p {
+    font-size: 16px;
+    font-family: Verdana;
+    text-align: right;
+    color: white;
+    padding-right: 10px;
+}
